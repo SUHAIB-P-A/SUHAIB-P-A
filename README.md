@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suhaibpa72@gmail.com**
 
-- 📄 My [Resume.](https://github.com/SUHAIB-P-A/Suhaib_CV.git)
+- 📄 My [Resume.](https://github.com/SUHAIB-P-A/Suhaib_CV/blob/main/SUHAIB_cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

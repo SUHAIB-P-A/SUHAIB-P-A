@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="left">Hi 👋, I'm Suhaib P A</h1>
 <h3 align="left">Flutter developer and B.Tech in Computer Science and Engineering</h3>
 

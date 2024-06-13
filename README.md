@@ -2,7 +2,7 @@
 <h3 align="left">Flutter developer and B.Tech in Computer Science and Engineering</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2859.jpg">-->
-<img align="right" alt="Coding" width="400" hight="300" src=https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif>
+<img align="right" alt="Coding" width="350" style="border-radius: 40px;" src=https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif>
 
 
 - 💬 Ask me about **Flutter and Python**

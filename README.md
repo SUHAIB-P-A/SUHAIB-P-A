@@ -3,7 +3,7 @@
 
 <!--<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2859.jpg">-->
 <img align="right" alt="Coding" width="350" style="border-radius: 40px;" src=https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif>
-<img align="center" alt="Coding" width="605" src=https://github.com/SUHAIB-P-A/SUHAIB-P-A/assets/121535933/871dcb96-5f7b-4217-a2d1-1c7a624dabd8>
+<img align="center" alt="Coding" width="350" src=https://github.com/SUHAIB-P-A/SUHAIB-P-A/assets/121535933/871dcb96-5f7b-4217-a2d1-1c7a624dabd8>
 
 
 - 💬 Ask me about **Flutter and Python**
@@ -12,7 +12,7 @@
 
 - 📄 My [Resume.](https://github.com/SUHAIB-P-A/Suhaib_CV/blob/main/SUHAIB_cv.pdf)
 
-<img align="center" alt="Coding" width="605" src=https://github.com/SUHAIB-P-A/SUHAIB-P-A/assets/121535933/871dcb96-5f7b-4217-a2d1-1c7a624dabd8>
+<img align="center" alt="Coding" width="350" src=https://github.com/SUHAIB-P-A/SUHAIB-P-A/assets/121535933/871dcb96-5f7b-4217-a2d1-1c7a624dabd8>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

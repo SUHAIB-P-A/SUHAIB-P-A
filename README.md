@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Suhaib P A</h1>
+<h1 align="left",style="display: inline;">Hi 👋, I'm Suhaib P A</h1><img align="center" alt="Coding" width="25" src=https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/code.gif>
 <h3 align="left">Flutter developer and B.Tech in Computer Science and Engineering</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2859.jpg">-->

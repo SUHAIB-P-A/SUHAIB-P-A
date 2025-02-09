@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **suhaibpa72@gmail.com**
 
-- 📄 My [Resume.](https://github.com/SUHAIB-P-A/Suhaib_CV/blob/main/SUHAIB_cv.pdf)
+- 📄 My [Resume.](https://github.com/SUHAIB-P-A/Suhaib_CV/blob/main/SUHAIB_s_Resume-1.pdf)
 
 <img align="center" alt="Coding" width="350" src=https://github.com/SUHAIB-P-A/SUHAIB-P-A/assets/121535933/871dcb96-5f7b-4217-a2d1-1c7a624dabd8>
 
